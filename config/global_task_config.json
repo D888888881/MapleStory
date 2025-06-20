@@ -1,0 +1,26 @@
+{
+  "自动领取疲劳时间": {
+    "enabled": true,
+    "interval": "5"
+  },
+  "自动领取日常物品": {
+    "enabled": true,
+    "interval": "5"
+  },
+  "自动整理背包装备": {
+    "enabled": false,
+    "interval": "5"
+  },
+  "自动整备高级装备": {
+    "enabled": false,
+    "interval": "5"
+  },
+  "自动装备检测升级": {
+    "enabled": false,
+    "interval": "5"
+  },
+  "自动检查活动奖励": {
+    "enabled": false,
+    "interval": "5"
+  }
+}
